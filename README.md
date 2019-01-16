@@ -1,2 +1,2 @@
-# boot-camp-prep-day-2
-Boot Camp Prep Day 2
+# Bootcamp Prep Day 2
+
